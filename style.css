@@ -28,3 +28,14 @@
   align-items: center;
   background-color: violet;
 }
+.footer {
+  background-color: gray;
+}
+
+.footer__ul {
+  background-color: green;
+}
+
+.footer__li {
+  color: black;
+}
