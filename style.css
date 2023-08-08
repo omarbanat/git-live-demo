@@ -2,3 +2,23 @@
   margin: 0;
   padding: 0;
 }
+
+.header {
+  background-color: blue;
+}
+
+.header__title {
+  color: white;
+}
+
+.header__paragraph {
+  color: red;
+}
+
+.header__ul {
+  display: flex;
+}
+
+.header__li {
+  color: aqua;
+}
