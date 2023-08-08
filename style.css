@@ -22,3 +22,9 @@
 .header__li {
   color: aqua;
 }
+.news {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: violet;
+}
